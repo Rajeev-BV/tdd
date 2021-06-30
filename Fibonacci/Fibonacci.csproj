@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Fibonacci</RootNamespace>
     <AssemblyName>Fibonacci</AssemblyName>
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion></TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
